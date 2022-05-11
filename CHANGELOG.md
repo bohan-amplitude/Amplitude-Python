@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.4 (2022-05-11)
+### Fix
+* Release ([#7](https://github.com/bohan-amplitude/Amplitude-Python/issues/7)) ([`15f3795`](https://github.com/bohan-amplitude/Amplitude-Python/commit/15f3795aed171af357307564e412b9b2b7c1b424))
+
 ## v0.2.3 (2022-05-11)
 ### Fix
 * Release ([#6](https://github.com/bohan-amplitude/Amplitude-Python/issues/6)) ([`b36c74e`](https://github.com/bohan-amplitude/Amplitude-Python/commit/b36c74e55e82097cde4001fe9c91321c07a1df3f))
