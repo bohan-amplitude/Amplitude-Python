@@ -2,6 +2,10 @@
 
 <!--next-version-placeholder-->
 
+## v0.2.3 (2022-05-11)
+### Fix
+* Release ([#6](https://github.com/bohan-amplitude/Amplitude-Python/issues/6)) ([`b36c74e`](https://github.com/bohan-amplitude/Amplitude-Python/commit/b36c74e55e82097cde4001fe9c91321c07a1df3f))
+
 ## v0.2.2 (2022-04-29)
 ### Fix
 * Use new thread instead of background blocking thread ([#20](https://github.com/amplitude/Amplitude-Python/issues/20)) ([`24f807f`](https://github.com/amplitude/Amplitude-Python/commit/24f807f3c9eb2806deb83c5545151ca034e3ce20))
